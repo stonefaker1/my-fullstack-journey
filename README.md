@@ -24,4 +24,4 @@
 🔴 必须扎实（Agent 核心依赖）
 🟡 够用即可（能做界面、能部署）
 ## 参考：
-[text](https://github.com/Karovia/fullstack-ai-agent-roadmap)
+[fullstack-ai-agent-roadmap](https://github.com/Karovia/fullstack-ai-agent-roadmap)
